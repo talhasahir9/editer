@@ -60,3 +60,6 @@ Memory Issues: RDP par kaam karte waqt hamesha Fast Mode use karen taake RAM cra
 
 👨‍💻 Developer
 Talha Khalid Former Chemist | Content Strategist | Python Developer# editer
+
+
+pyinstaller --noconsole --onefile --collect-all imageio --collect-all moviepy --name "Talha_Auto_Cutter" editer.py
